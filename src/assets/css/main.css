@@ -1,0 +1,22 @@
+@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+:root {
+    --primary: #2674f5;
+    --primary-dark: #1759d6;
+    --secondary: #f7711e;
+    --navy: #152259;
+    --navy-light: #1e2f78;
+    --background: #f6f8fc;
+    --white: #ffffff;
+    --border: #eceff4;
+    --text-primary: #1f2937;
+    --text-secondary: #6b7280;
+    --radius-sm: 12px;
+    --radius-md: 18px;
+    --radius-lg: 24px;
+    --shadow-card: 0 2px 14px rgba(21, 34, 89, 0.12);
+    --shadow-soft: 0 10px 30px rgba(21, 34, 89, 0.15);
+    --header-height: 80px;
+}
